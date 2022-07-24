@@ -6,7 +6,7 @@
   <link href="https://jerryxu-5307.github.io/atom.xml" rel="self"/>
   
   <link href="https://jerryxu-5307.github.io/"/>
-  <updated>2022-07-23T15:54:26.984Z</updated>
+  <updated>2022-07-24T02:05:09.595Z</updated>
   <id>https://jerryxu-5307.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>喵喵喵</title>
+    <link href="https://jerryxu-5307.github.io/2022/07/24/%E5%96%B5%E5%96%B5%E5%96%B5/"/>
+    <id>https://jerryxu-5307.github.io/2022/07/24/%E5%96%B5%E5%96%B5%E5%96%B5/</id>
+    <published>2022-07-24T01:59:17.000Z</published>
+    <updated>2022-07-24T02:05:09.595Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/JerryXu-5307/picbed-for-blog@main/81264848_p0_master1200.jpg" alt="紫狗猫"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/JerryXu-5307/picbed-for-blog@main/81264848_p0_master1200.jpg&quot; alt=&quot;紫狗猫&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="https://jerryxu-5307.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="图片" scheme="https://jerryxu-5307.github.io/tags/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
