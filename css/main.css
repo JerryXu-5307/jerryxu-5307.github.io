@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8b0813;
+  background: #ffe845;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1318,7 +1318,6 @@ pre .javascript .function {
   line-height: 1.8;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
 }
 .post-toc .nav .nav-child {
   display: none;
@@ -1520,6 +1519,15 @@ pre .javascript .function {
   line-height: 1;
   margin: -20px auto 15px;
   text-align: center;
+}
+.post-body a:not(.btn) {
+  color: #a200ff;
+  border-bottom: none;
+}
+.post-body a:not(.btn):hover {
+  color: #d400ff;
+  font-weight: bold;
+  text-decoration: underline;
 }
 .post-sticky-flag {
   display: inline-block;
@@ -2466,19 +2474,19 @@ ul.breadcrumb li + li:last-child {
 }
 .sidebar-button a {
   border: 0;
-  color: #fc6423;
+  color: #8c00ff;
   display: block;
 }
 .sidebar-button a:hover {
   background: none;
   border: 0;
-  color: #e34603;
+  color: #8c00ff;
 }
 .sidebar-button a:hover .fa,
 .sidebar-button a:hover .fab,
 .sidebar-button a:hover .far,
 .sidebar-button a:hover .fas {
-  color: #e34603;
+  color: #ae00ff;
 }
 .links-of-author {
   display: flex;
